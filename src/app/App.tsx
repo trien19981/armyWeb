@@ -184,7 +184,7 @@ export default function App() {
           <div className="grid grid-cols-2 gap-4 mb-8 rounded-lg overflow-hidden">
             <div className="relative h-32 rounded-lg overflow-hidden shadow-lg">
               <ImageWithFallback
-                src="https://images.unsplash.com/photo-1679871215166-c8cdc5ed9025?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxhcm15JTIwYmFzZXxlbnwxfHx8fDE3NjU4NzM1NjJ8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral"
+                src="https://cdn.castinghub.vn/files/3/028f96e9-ae4a-4e67-a245-ff2549446d57.jpeg"
                 alt="Army base"
                 className="w-full h-full object-cover"
               />
@@ -194,7 +194,7 @@ export default function App() {
             </div>
             <div className="relative h-32 rounded-lg overflow-hidden shadow-lg">
               <ImageWithFallback
-                src="https://images.unsplash.com/photo-1723986356564-38890feec85d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxtaWxpdGFyeSUyMGNhbXB8ZW58MXx8fHwxNzY1ODczNTYyfDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral"
+                src="https://cdn.castinghub.vn/files/3/30e0dd6e-14db-449f-84d3-d317aed99cd7.jpeg"
                 alt="Military camp"
                 className="w-full h-full object-cover"
               />
